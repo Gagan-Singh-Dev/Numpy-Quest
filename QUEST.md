@@ -3,7 +3,7 @@
 Welcome, adventurer! ⚔️  
 This is your ultimate NumPy gauntlet: 90 progressively challenging problems designed to sharpen your vectorization skills, followed by the **BOSS Level** to test everything you’ve learned.  
 
-Think of this as **strength training for your numerical brain** 🧮💪. No copy-pasting, no shortcuts — just pure NumPy mastery.
+Think of this as **strength training for your numerical brain** 🧮💪. No copy-pasting, no shortcuts — just pure NumPy mastery. 
 
 ---
 
