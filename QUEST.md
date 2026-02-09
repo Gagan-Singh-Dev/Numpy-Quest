@@ -22,15 +22,15 @@ Each level builds on the last — your loops will disappear, your broadcasting w
 
 ## 🟢 Level 1 – Easy (Foundations)
 
-1. Create a NumPy array of integers from 10 to 49.  
-2. Build a 3×3 matrix filled with zeros.  
-3. Create a 5×5 identity matrix.  
-4. Generate 20 evenly spaced numbers between 0 and 1.  
-5. Fill a 4×4 matrix with random integers from 1 to 100.  
-6. Reshape a 1D array of size 12 into a 3×4 matrix.  
-7. Extract the third element from a 1D array.  
-8. Replace all even numbers in an array with -1.  
-9. Find the maximum and minimum values of an array efficiently.  
+01. Create a NumPy array of integers from 10 to 49.  
+02. Build a 3×3 matrix filled with zeros.  
+03. Create a 5×5 identity matrix.  
+04. Generate 20 evenly spaced numbers between 0 and 1.  
+05. Fill a 4×4 matrix with random integers from 1 to 100.  
+06. Reshape a 1D array of size 12 into a 3×4 matrix.  
+07. Extract the third element from a 1D array.  
+08. Replace all even numbers in an array with -1.  
+09. Find the maximum and minimum values of an array efficiently.  
 10. Compute mean, median, and standard deviation of a random array of size 50.  
 11. Create a 6×6 matrix with sequential values from 0 to 35.  
 12. Reverse a 1D array without using loops.  
