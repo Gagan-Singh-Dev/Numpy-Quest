@@ -1,6 +1,6 @@
 # 📅 Day 02 – Indexing, Reshaping & Statistical Foundations
 
-**Mode:** Easy  
+**Mode:** Easy   
 **Questions Completed:** Q6–Q10 / 20 (Easy Mode)  
 **Time Spent:** ~0.5–1 hours  
 **Status:** Momentum Building ⚡  
